@@ -1,4 +1,4 @@
-package rlog
+package llog
 
 // Level defines the log level.
 type Level int8

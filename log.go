@@ -1,4 +1,4 @@
-package rlog
+package llog
 
 import (
 	"fmt"

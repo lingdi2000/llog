@@ -1,4 +1,4 @@
-package rlog
+package llog
 
 type Config struct {
 	Level  Level  `json:"level"`

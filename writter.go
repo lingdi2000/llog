@@ -1,4 +1,4 @@
-package rlog
+package llog
 
 //writer 定义一个日志writer方便替换底层日志库
 type writer interface {
